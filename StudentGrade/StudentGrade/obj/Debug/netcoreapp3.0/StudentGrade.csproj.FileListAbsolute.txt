@@ -1,0 +1,11 @@
+C:\Users\Osama\source\repos\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.0\StudentGrade.exe
+C:\Users\Osama\source\repos\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.0\StudentGrade.deps.json
+C:\Users\Osama\source\repos\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.0\StudentGrade.runtimeconfig.json
+C:\Users\Osama\source\repos\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.0\StudentGrade.runtimeconfig.dev.json
+C:\Users\Osama\source\repos\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.0\StudentGrade.dll
+C:\Users\Osama\source\repos\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.0\StudentGrade.pdb
+C:\Users\Osama\source\repos\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.0\StudentGrade.csprojAssemblyReference.cache
+C:\Users\Osama\source\repos\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.0\StudentGrade.AssemblyInfoInputs.cache
+C:\Users\Osama\source\repos\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.0\StudentGrade.AssemblyInfo.cs
+C:\Users\Osama\source\repos\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.0\StudentGrade.dll
+C:\Users\Osama\source\repos\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.0\StudentGrade.pdb

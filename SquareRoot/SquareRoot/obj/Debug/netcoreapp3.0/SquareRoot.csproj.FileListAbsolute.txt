@@ -1,0 +1,11 @@
+C:\Users\Osama\source\repos\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.0\SquareRoot.exe
+C:\Users\Osama\source\repos\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.0\SquareRoot.deps.json
+C:\Users\Osama\source\repos\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.0\SquareRoot.runtimeconfig.json
+C:\Users\Osama\source\repos\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.0\SquareRoot.runtimeconfig.dev.json
+C:\Users\Osama\source\repos\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.0\SquareRoot.dll
+C:\Users\Osama\source\repos\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.0\SquareRoot.pdb
+C:\Users\Osama\source\repos\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.0\SquareRoot.csprojAssemblyReference.cache
+C:\Users\Osama\source\repos\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.0\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Osama\source\repos\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.0\SquareRoot.AssemblyInfo.cs
+C:\Users\Osama\source\repos\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.0\SquareRoot.dll
+C:\Users\Osama\source\repos\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.0\SquareRoot.pdb
