@@ -1,0 +1,11 @@
+C:\Users\Osama\source\repos\MathPow\MathPow\bin\Debug\netcoreapp3.0\MathPow.exe
+C:\Users\Osama\source\repos\MathPow\MathPow\bin\Debug\netcoreapp3.0\MathPow.deps.json
+C:\Users\Osama\source\repos\MathPow\MathPow\bin\Debug\netcoreapp3.0\MathPow.runtimeconfig.json
+C:\Users\Osama\source\repos\MathPow\MathPow\bin\Debug\netcoreapp3.0\MathPow.runtimeconfig.dev.json
+C:\Users\Osama\source\repos\MathPow\MathPow\bin\Debug\netcoreapp3.0\MathPow.dll
+C:\Users\Osama\source\repos\MathPow\MathPow\bin\Debug\netcoreapp3.0\MathPow.pdb
+C:\Users\Osama\source\repos\MathPow\MathPow\obj\Debug\netcoreapp3.0\MathPow.csprojAssemblyReference.cache
+C:\Users\Osama\source\repos\MathPow\MathPow\obj\Debug\netcoreapp3.0\MathPow.AssemblyInfoInputs.cache
+C:\Users\Osama\source\repos\MathPow\MathPow\obj\Debug\netcoreapp3.0\MathPow.AssemblyInfo.cs
+C:\Users\Osama\source\repos\MathPow\MathPow\obj\Debug\netcoreapp3.0\MathPow.dll
+C:\Users\Osama\source\repos\MathPow\MathPow\obj\Debug\netcoreapp3.0\MathPow.pdb
